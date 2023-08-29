@@ -3,7 +3,7 @@ Lic. en la Enseñanza de la Informática y Computación <br>
 Curso: Didáctica de la Programación <hr>
 
 <h1 align="center">Git y GitHub</h1>
-<p >Agosto 2023</p>
+<p align="center">Agosto 2023</p>
 
 <table>
 	<tr>
