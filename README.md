@@ -2,10 +2,8 @@ USAC - EFPEM<br>
 Lic. en la Enseñanza de la Informática y Computación <br>
 Curso: Didáctica de la Programación <hr>
 
-<center>
-	<h1>Git y GitHub</h1>
-	<p style>Agosto 2023</p>
-</center>
+<h1 align="center">Git y GitHub</h1>
+<p >Agosto 2023</p>
 
 <table>
 	<tr>
